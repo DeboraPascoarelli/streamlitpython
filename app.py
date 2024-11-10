@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-dados = pd.read_csv('df_clean.csv')
+
 
 
 st.set_page_config(page_title="Dashboard Analítico")
